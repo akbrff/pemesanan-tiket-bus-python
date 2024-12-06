@@ -3,7 +3,7 @@
 Tugas UAS ini dilakukan dan/atau dibuat oleh:
 
 - [@username1](https://github.com/username1)
-- [@username2](https://github.com/username2)
+- [@akbrff](https://github.com/akbrff)
 - [@username3](https://github.com/username3)
 - [@username4](https://github.com/username4)
 - [@username5](https://github.com/username5)
@@ -20,7 +20,7 @@ Tugas UAS ini dilakukan dan/atau dibuat oleh:
 **👥 Nama Anggota Kelompok:**
 
 - <span style="color:blue;">Nama Anggota 1</span>
-- <span style="color:green;">Nama Anggota 2</span>
+- <span style="color:green;">Muhamad Akbar Febiansyah</span>
 - <span style="color:red;">Nama Anggota 3</span>
 - <span style="color:orange;">Nama Anggota 4</span>
 - <span style="color:purple;">Nama Anggota 5</span>
